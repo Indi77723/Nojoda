@@ -1,0 +1,40 @@
+{
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2025-04-12 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-04-12 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-12 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-12 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-12 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-04-12 03:15:52 +0000",
+      "minecraft:plains": "2025-04-12 03:16:39 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
