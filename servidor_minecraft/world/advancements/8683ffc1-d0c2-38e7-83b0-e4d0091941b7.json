@@ -3367,6 +3367,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-04-13 16:35:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 14:53:08 +0000"
@@ -3415,6 +3421,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-04-13 16:39:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-04-13 16:32:32 +0000"
@@ -3424,6 +3436,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 14:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-13 16:35:30 +0000"
     },
     "done": true
   },
@@ -3466,6 +3484,12 @@
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-04-13 15:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-13 16:35:30 +0000"
     },
     "done": true
   },
@@ -3538,6 +3562,18 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-04-13 15:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-13 16:35:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-13 16:39:38 +0000"
     },
     "done": true
   },
