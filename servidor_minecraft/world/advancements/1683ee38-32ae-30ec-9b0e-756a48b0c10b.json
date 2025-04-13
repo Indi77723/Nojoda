@@ -32,8 +32,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-13 16:03:13 +0000",
+      "minecraft:bamboo_jungle": "2025-04-13 17:07:23 +0000",
+      "minecraft:dark_forest": "2025-04-13 17:06:29 +0000",
       "minecraft:river": "2025-04-13 16:02:32 +0000",
       "minecraft:forest": "2025-04-13 15:22:04 +0000",
+      "minecraft:lush_caves": "2025-04-13 17:04:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-13 15:33:47 +0000",
       "minecraft:plains": "2025-04-13 16:07:38 +0000"
     },
@@ -699,6 +702,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-13 16:16:27 +0000"
@@ -903,6 +912,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-13 17:06:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-13 16:11:17 +0000"
@@ -943,7 +958,9 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-13 16:35:02 +0000",
       "minecraft:enderman": "2025-04-13 16:37:28 +0000",
-      "minecraft:zombie": "2025-04-13 16:04:33 +0000"
+      "minecraft:silverfish": "2025-04-13 17:08:18 +0000",
+      "minecraft:zombie": "2025-04-13 16:04:33 +0000",
+      "minecraft:zombie_villager": "2025-04-13 16:56:33 +0000"
     },
     "done": false
   },
@@ -1211,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
     "criteria": {
       "has_wool": "2025-04-13 16:03:11 +0000"
@@ -1283,6 +1306,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 16:42:30 +0000"
@@ -1352,6 +1387,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-13 16:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
     },
     "done": true
   },
@@ -1508,6 +1549,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 16:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
     },
     "done": true
   },
@@ -1781,6 +1828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-13 16:03:11 +0000"
@@ -1793,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-13 16:20:18 +0000"
@@ -1802,6 +1861,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 16:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
     },
     "done": true
   },
@@ -2141,6 +2206,12 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-13 16:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-13 16:56:26 +0000"
     },
     "done": true
   },
