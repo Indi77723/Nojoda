@@ -173,3 +173,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 15:47:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> perfecto
 [13Apr2025 15:47:52.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JEDT1 lost connection: Disconnected
 [13Apr2025 15:47:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JEDT1 left the game
+[13Apr2025 15:58:55.603] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JEDT1[/127.182.18.52:49225] logged in with entity id 16475 at (37.214418443677744, 102.0, 170.19044858339015)
+[13Apr2025 15:58:55.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JEDT1 joined the game
+[13Apr2025 15:59:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> nada bro
+[13Apr2025 15:59:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> no se puede xD
+[13Apr2025 15:59:10.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> ES QUE
+[13Apr2025 15:59:21.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> intente quitar ese y poner el optifine
+[13Apr2025 15:59:27.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> pero minecraft me crashea
+[13Apr2025 15:59:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> al parecer sin ese mod no se ejecutan bien los demas
+[13Apr2025 15:59:46.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> No te va a dar El optifine ya no sirve para estas versiones
+[13Apr2025 15:59:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> el optifine esa muyyyyy obsoleto
+[13Apr2025 16:00:00.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> instale el mod de los shaders
+[13Apr2025 16:00:05.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> pero tampoco me deja usarlo
+[13Apr2025 16:00:08.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> tipo
+[13Apr2025 16:00:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> al entrar a mc
+[13Apr2025 16:00:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> me dice igual que solo hay 52 mods
+[13Apr2025 16:00:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> dejame te busco el mod pa los shadders
+[13Apr2025 16:00:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> dale grax
+[13Apr2025 16:00:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> pasame las cordenadas
+[13Apr2025 16:00:57.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> -670, 63, 405
+[13Apr2025 16:01:41.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/1742, l='ServerLevel[world]', x=-691.40, y=64.00, z=318.72] died, message: 'Armorer liquified to Fanta juice'
