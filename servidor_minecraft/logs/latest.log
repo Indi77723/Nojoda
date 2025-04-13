@@ -157,3 +157,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 15:34:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> cierra minecraft y vuelvelo abrir bro
 [13Apr2025 15:34:42.591] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JEDT1 lost connection: Disconnected
 [13Apr2025 15:34:42.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JEDT1 left the game
+[13Apr2025 15:46:46.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JEDT1[/127.182.18.52:37645] logged in with entity id 13838 at (37.214418443677744, 102.0, 170.19044858339015)
+[13Apr2025 15:46:46.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JEDT1 joined the game
+[13Apr2025 15:46:49.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> bro
+[13Apr2025 15:47:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Que Pasa Bro?
+[13Apr2025 15:47:06.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> como me dijiste que se llamaba el mod que estaba en lugar del optifine?
+[13Apr2025 15:47:13.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> embedium
+[13Apr2025 15:47:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> okei thanks
+[13Apr2025 15:47:24.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> ya vengo
+[13Apr2025 15:47:27.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> pregunta rapida
+[13Apr2025 15:47:32.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> dime
+[13Apr2025 15:47:36.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> cuantos mods te dice el minecraft que tienew?
+[13Apr2025 15:47:41.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> 52?
+[13Apr2025 15:47:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> 52
+[13Apr2025 15:47:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> perfecto
+[13Apr2025 15:47:52.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JEDT1 lost connection: Disconnected
+[13Apr2025 15:47:52.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JEDT1 left the game
