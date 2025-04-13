@@ -233,3 +233,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 16:39:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JEDT1> me acaban de explotar unos zombies ajsjasjas
 [13Apr2025 16:39:38.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [A Seedy Place]
 [13Apr2025 16:41:54.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30583, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[13Apr2025 16:47:21.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1754, l='ServerLevel[world]', x=-652.43, y=70.00, z=301.93] died, message: 'Villager died'
+[13Apr2025 16:47:21.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1752, l='ServerLevel[world]', x=-646.33, y=70.00, z=300.86] died, message: 'Nitwit died'
+[13Apr2025 16:49:06.184] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32364, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[13Apr2025 16:54:31.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Dinner's Served!]
