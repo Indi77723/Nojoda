@@ -116,3 +116,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 16:37:34.998] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/1257, l='ServerLevel[world]', x=-1153.97, y=67.00, z=856.15]
 [16Apr2025 16:38:16.299] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/1471, l='ServerLevel[world]', x=-1392.50, y=63.00, z=685.36]
 [16Apr2025 16:38:16.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/1474, l='ServerLevel[world]', x=-1393.86, y=74.31, z=613.68]
+[16Apr2025 16:44:45.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:51967] logged in with entity id 4515 at (-765.0719787602973, 69.0, 342.58258769155475)
+[16Apr2025 16:44:45.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[16Apr2025 16:45:15.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[16Apr2025 16:45:15.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[16Apr2025 16:45:15.541] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Apr2025 16:46:03.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has reached the goal [Plant Food]
+[16Apr2025 16:52:10.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:34565] logged in with entity id 6850 at (-765.0719787602973, 69.0, 342.58258769155475)
+[16Apr2025 16:52:10.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[16Apr2025 16:52:27.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> MALDITA LUZ DEL DIABLO COÑO
+[16Apr2025 16:52:40.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[16Apr2025 16:52:40.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[16Apr2025 16:52:49.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XDXDXDXDXDXDXDXDXDD
+[16Apr2025 16:53:32.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33345] logged in with entity id 7237 at (-765.0719787602973, 69.0, 342.58258769155475)
+[16Apr2025 16:53:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[16Apr2025 16:53:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XDXDXDXDXD
