@@ -131,3 +131,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 16:53:32.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:33345] logged in with entity id 7237 at (-765.0719787602973, 69.0, 342.58258769155475)
 [16Apr2025 16:53:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [16Apr2025 16:53:45.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> XDXDXDXDXD
+[16Apr2025 16:53:53.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[16Apr2025 16:53:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[16Apr2025 17:02:30.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=64, z=342} BlockPos{x=-728, y=64, z=342}
+[16Apr2025 17:02:31.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-730, y=64, z=344} BlockPos{x=-729, y=64, z=343}
+[16Apr2025 17:04:52.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43195] logged in with entity id 10125 at (-765.0719787602973, 69.0, 342.58258769155475)
+[16Apr2025 17:04:52.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[16Apr2025 17:05:05.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> bruh
+[16Apr2025 17:05:15.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> hermano actualize ese drive oyo
+[16Apr2025 17:05:26.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Cual drive
+[16Apr2025 17:05:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> el de los mods
+[16Apr2025 17:05:35.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> AAAH el drive
+[16Apr2025 17:05:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> mira mi casa
+[16Apr2025 17:05:50.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> le tube que sacar 4 mods pa que me sirviera
+[16Apr2025 17:06:06.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> wais
+[16Apr2025 17:06:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> que elegancia
+[16Apr2025 17:06:19.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> cual le sacaste??
+[16Apr2025 17:06:31.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya pase la captura al grupo
+[16Apr2025 17:07:43.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[16Apr2025 17:07:43.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[16Apr2025 17:11:13.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/3949, l='ServerLevel[world]', x=-667.76, y=71.00, z=287.53] died, message: 'Villager hit the ground too hard'
