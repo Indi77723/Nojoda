@@ -6253,3 +6253,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 18:17:09.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Apr2025 18:17:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa was slain by The Glitter
 [16Apr2025 18:18:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Night Night]
+[16Apr2025 18:21:59.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [+PARRY]
+[16Apr2025 18:22:09.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:22:09.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:25:04.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was slain by Sucker
+[16Apr2025 18:26:19.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15494, l='ServerLevel[world]', x=-642.22, y=70.00, z=293.30] died, message: 'Villager was slain by Zombie'
+[16Apr2025 18:26:25.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/15501, l='ServerLevel[world]', x=-658.65, y=70.00, z=300.70] died, message: 'Nitwit died'
+[16Apr2025 18:26:35.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15493, l='ServerLevel[world]', x=-651.24, y=70.00, z=292.94] died, message: 'Villager was slain by Zombie'
+[16Apr2025 18:26:38.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Timed out
+[16Apr2025 18:26:38.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[16Apr2025 18:26:38.919] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Apr2025 18:26:42.615] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[16Apr2025 18:26:42.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[16Apr2025 18:27:09.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:27:09.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:30:29.730] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
