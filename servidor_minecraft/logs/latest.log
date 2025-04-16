@@ -154,3 +154,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 17:18:38.397] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [curios:main] rejected their client side version number
 [16Apr2025 17:18:38.397] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [16Apr2025 17:18:38.445] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@308ecc14[id=<null>,name=CalbiBaa,properties={},legacy=false] (/127.14.137.183:39533) lost connection: Connection closed - mismatched mod channel list
+[16Apr2025 17:31:25.801] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.14.137.183:47235] logged in with entity id 15454 at (-232.91530945535382, 46.0, 111.23573177175253)
+[16Apr2025 17:31:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[16Apr2025 17:32:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalbiBaa> pa donde coño se mudaron
+[16Apr2025 17:32:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> por donde estas?
+[16Apr2025 17:32:46.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> estamos en una aldea
+[16Apr2025 17:32:48.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalbiBaa> en la cueva de la ultima vez
+[16Apr2025 17:32:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> -754, 68, 339
