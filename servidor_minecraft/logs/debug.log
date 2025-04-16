@@ -6210,3 +6210,46 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Apr2025 17:49:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Agarra en los hornos
 [16Apr2025 17:49:13.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Agase machito
 [16Apr2025 17:49:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Sweet Dreams]
+[16Apr2025 17:52:09.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 17:52:09.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 17:52:24.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> sebas
+[16Apr2025 17:52:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ooooo
+[16Apr2025 17:52:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> usa eso para el barco
+[16Apr2025 17:53:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> se usan solo en el suelo?
+[16Apr2025 17:53:11.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Lamentablemente si
+[16Apr2025 17:53:28.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> waos
+[16Apr2025 17:53:33.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> esto sera util
+[16Apr2025 17:53:35.830] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[16Apr2025 17:53:45.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Y tiene resistencia de caida
+[16Apr2025 17:53:52.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> er hueso
+[16Apr2025 17:53:55.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> osea si te caes no te matas
+[16Apr2025 17:55:10.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalbiBaa> no saben de una mina porai
+[16Apr2025 17:55:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ven conmigo
+[16Apr2025 17:55:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> dale ahi
+[16Apr2025 17:55:50.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> te deja ir a cueva?
+[16Apr2025 17:55:56.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalbiBaa> no
+[16Apr2025 17:56:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> cOño
+[16Apr2025 17:56:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ok anda a las coordenadas
+[16Apr2025 17:56:39.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> -1200, 700
+[16Apr2025 17:56:48.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CalbiBaa> y si mejor vamos a llamada?
+[16Apr2025 17:56:59.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya entro a discord
+[16Apr2025 17:57:09.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 17:57:09.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 17:58:12.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ya estoy en discord
+[16Apr2025 18:02:09.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:02:09.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:02:38.074] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[16Apr2025 18:07:09.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:07:09.331] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:11:16.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was squished too much
+[16Apr2025 18:11:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Well, that was disgusting]
+[16Apr2025 18:11:26.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> q
+[16Apr2025 18:12:09.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:12:09.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:13:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> vuelvo en un rato
+[16Apr2025 18:13:36.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[16Apr2025 18:13:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[16Apr2025 18:17:09.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 18:17:09.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 18:17:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa was slain by The Glitter
+[16Apr2025 18:18:42.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Night Night]

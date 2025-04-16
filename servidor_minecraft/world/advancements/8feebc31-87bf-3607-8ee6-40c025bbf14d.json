@@ -764,6 +764,7 @@
       "minecraft:skeleton": "2025-04-11 03:45:55 +0000",
       "minecraft:spider": "2025-04-11 03:13:19 +0000",
       "minecraft:creeper": "2025-04-11 03:11:08 +0000",
+      "minecraft:enderman": "2025-04-16 18:10:32 +0000",
       "minecraft:zombie": "2025-04-11 03:15:31 +0000",
       "minecraft:drowned": "2025-04-12 03:12:51 +0000"
     },
@@ -3324,6 +3325,48 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-04-16 17:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-16 18:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-16 18:11:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-16 18:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-16 18:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-16 18:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-16 18:11:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
+    "criteria": {
+      "has_safety_net": "2025-04-16 17:52:32 +0000"
     },
     "done": true
   },
