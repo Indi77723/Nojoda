@@ -31,6 +31,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-16 16:09:15 +0000",
       "minecraft:river": "2025-04-11 03:14:08 +0000",
       "minecraft:stony_shore": "2025-04-11 02:43:53 +0000",
       "minecraft:forest": "2025-04-11 01:59:04 +0000",
@@ -3725,6 +3726,12 @@
   "create:recipes/building_blocks/crafting/logistics/blue_postbox": {
     "criteria": {
       "has_barrel": "2025-04-13 16:58:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-16 16:10:55 +0000"
     },
     "done": true
   },
