@@ -176,3 +176,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 03:33:36.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Take Aim]
 [17Apr2025 03:50:24.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31950, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
 [17Apr2025 03:50:54.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10434, l='ServerLevel[world]', x=-665.52, y=70.00, z=291.58] died, message: 'Villager liquified to Fanta juice'
+[17Apr2025 04:05:18.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[17Apr2025 04:05:18.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [First big catch of the month!]
+[17Apr2025 04:05:27.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Ice Bucket Challenge]
+[17Apr2025 04:08:21.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=56, z=412} BlockPos{x=-660, y=57, z=412}

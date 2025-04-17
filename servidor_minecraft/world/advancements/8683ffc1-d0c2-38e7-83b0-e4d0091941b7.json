@@ -3604,6 +3604,7 @@
       "cabbage": "2025-04-17 03:21:12 +0000",
       "onion": "2025-04-17 03:20:52 +0000",
       "tomato": "2025-04-17 03:57:43 +0000",
+      "sugar_cane": "2025-04-17 04:13:28 +0000",
       "potato": "2025-04-17 02:42:43 +0000",
       "red_mushroom": "2025-04-17 03:17:16 +0000",
       "wheat": "2025-04-13 16:39:38 +0000",
@@ -4271,6 +4272,12 @@
     },
     "done": true
   },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-04-17 04:05:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4487,6 +4494,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-04-17 04:08:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4562,6 +4575,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-04-17 04:05:18 +0000"
     },
     "done": true
   },
