@@ -4282,6 +4282,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-17 03:41:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4291,6 +4303,24 @@
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
     },
     "done": true
   },
@@ -4342,6 +4372,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4354,6 +4390,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2025-04-17 03:01:20 +0000"
@@ -4363,6 +4411,18 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-17 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
     },
     "done": true
   },
@@ -4396,6 +4456,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-04-17 03:41:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4423,6 +4489,24 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
     },
     "done": true
   },
@@ -4462,6 +4546,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-04-17 03:40:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
@@ -4471,6 +4561,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-17 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-17 03:40:48 +0000"
     },
     "done": true
   },
