@@ -137,3 +137,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 02:42:59.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
 [17Apr2025 02:43:31.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.14.137.183:35467] logged in with entity id 6639 at (-316.0325161827381, -5.0, 263.7547830488806)
 [17Apr2025 02:43:31.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[17Apr2025 02:44:06.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:45153] logged in with entity id 7002 at (-421.2820754136365, 2.0013359791121474, 374.55164988924764)
+[17Apr2025 02:44:06.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 02:44:36.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 02:44:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 02:46:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Diamonds!]
+[17Apr2025 02:49:31.014] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38865] logged in with entity id 8764 at (-421.2820754136365, 2.0013359791121474, 374.55164988924764)
+[17Apr2025 02:49:31.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 02:49:56.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> cargaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[17Apr2025 02:50:01.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 02:50:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 02:52:09.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49945] logged in with entity id 9826 at (-421.2820754136365, 2.0013359791121474, 374.55164988924764)
+[17Apr2025 02:52:09.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 02:52:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was doomed to fall by Skeleton
