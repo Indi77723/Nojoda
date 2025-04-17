@@ -150,3 +150,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 02:52:09.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49945] logged in with entity id 9826 at (-421.2820754136365, 2.0013359791121474, 374.55164988924764)
 [17Apr2025 02:52:09.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [17Apr2025 02:52:55.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was doomed to fall by Skeleton
+[17Apr2025 02:57:47.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-430, y=79, z=168} BlockPos{x=-429, y=78, z=166}
+[17Apr2025 02:57:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-430, y=79, z=168} BlockPos{x=-429, y=78, z=166}
+[17Apr2025 02:57:47.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-430, y=79, z=168} BlockPos{x=-429, y=78, z=166}
+[17Apr2025 02:57:48.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-430, y=79, z=168} BlockPos{x=-429, y=78, z=166}
+[17Apr2025 02:57:48.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-429, y=79, z=168} BlockPos{x=-429, y=78, z=166}
+[17Apr2025 02:58:35.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=79, z=168} BlockPos{x=-448, y=78, z=169}
+[17Apr2025 02:58:35.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=79, z=168} BlockPos{x=-448, y=78, z=169}
+[17Apr2025 02:58:35.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=79, z=168} BlockPos{x=-448, y=78, z=169}
+[17Apr2025 02:58:35.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-445, y=79, z=168} BlockPos{x=-448, y=78, z=169}
+[17Apr2025 02:58:42.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-452, y=80, z=171} BlockPos{x=-454, y=79, z=171}
+[17Apr2025 02:58:42.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-452, y=80, z=171} BlockPos{x=-454, y=79, z=171}
+[17Apr2025 02:58:43.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-455, y=81, z=170} BlockPos{x=-457, y=79, z=170}
+[17Apr2025 02:59:07.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-463, y=85, z=127} BlockPos{x=-464, y=84, z=127}
+[17Apr2025 03:03:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has completed the challenge [I'm not sugar coating it]
+[17Apr2025 03:04:08.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has completed the challenge [Unfunny dad jokes]
+[17Apr2025 03:04:08.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [First big catch of the month!]
+[17Apr2025 03:05:42.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[17Apr2025 03:05:42.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 03:10:47.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18880, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
