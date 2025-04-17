@@ -389,3 +389,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 05:21:04.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66156, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
 [17Apr2025 05:24:04.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 9.381547025512646,0.12129684053920187,-4.110134386423454
 [17Apr2025 05:25:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Sucker
+[17Apr2025 05:25:42.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63279, l='ServerLevel[world]', x=-607.53, y=69.00, z=334.70] died, message: 'Villager died because of The Pregnant'
+[17Apr2025 05:25:44.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63278, l='ServerLevel[world]', x=-607.85, y=69.00, z=329.58] died, message: 'Villager was slain by The Pregnant'
+[17Apr2025 05:26:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [My Bald Satanic Goth Girl Friend]
+[17Apr2025 05:29:59.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[17Apr2025 05:29:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[17Apr2025 05:32:53.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[17Apr2025 05:32:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game

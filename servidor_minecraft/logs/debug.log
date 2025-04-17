@@ -7813,3 +7813,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 05:24:43.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Apr2025 05:25:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Sucker
 [17Apr2025 05:25:30.535] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-736, y=62, z=300}) doesn't have enough leaves around top most log
+[17Apr2025 05:25:42.803] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63279, l='ServerLevel[world]', x=-607.53, y=69.00, z=334.70] died, message: 'Villager died because of The Pregnant'
+[17Apr2025 05:25:44.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/63278, l='ServerLevel[world]', x=-607.85, y=69.00, z=329.58] died, message: 'Villager was slain by The Pregnant'
+[17Apr2025 05:26:32.300] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-736, y=62, z=301}) doesn't have enough leaves around top most log
+[17Apr2025 05:26:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [My Bald Satanic Goth Girl Friend]
+[17Apr2025 05:26:48.329] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-736, y=61, z=301}) doesn't have enough leaves around top most log
+[17Apr2025 05:26:49.141] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-736, y=61, z=300}) doesn't have enough leaves around top most log
+[17Apr2025 05:29:42.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 05:29:43.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 05:29:59.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[17Apr2025 05:29:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[17Apr2025 05:32:53.749] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[17Apr2025 05:32:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[17Apr2025 05:34:42.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 05:34:42.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
