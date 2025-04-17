@@ -2339,3 +2339,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 23:37:21.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:51013] logged in with entity id 35511 at (-736.033940942544, 61.0, 301.22756241986957)
 [17Apr2025 23:37:21.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
 [17Apr2025 23:37:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has reached the goal [Choose Your Class]
+[17Apr2025 23:38:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has completed the challenge [Ranger Class]
+[17Apr2025 23:42:01.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[17Apr2025 23:42:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 23:44:08.203] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 35fc6b4d: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[17Apr2025 23:44:28.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 moved too quickly! -10.033182497716098,-0.17675927506424216,-1.8324967973547928
+[17Apr2025 23:44:28.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3072ms or 61 ticks behind
+[17Apr2025 23:44:45.158] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 35fc6b4d: RandomSpreadSearchWorker stopped with 1703 radius, 24146 samples
+[17Apr2025 23:44:45.158] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 35fc6b4d: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[17Apr2025 23:44:45.183] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 35fc6b4d: RandomSpreadSearchWorker succeeded with 579 radius, 3392 samples
+[17Apr2025 23:46:39.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37527, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'

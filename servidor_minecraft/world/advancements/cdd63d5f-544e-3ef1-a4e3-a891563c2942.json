@@ -3277,5 +3277,23 @@
     },
     "done": true
   },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2025-04-17 23:37:21 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:ranger_class": {
+    "criteria": {
+      "ranger_class_0": "2025-04-17 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-04-17 23:37:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
