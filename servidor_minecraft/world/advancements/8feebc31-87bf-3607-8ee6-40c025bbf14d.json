@@ -3328,15 +3328,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+  "farmersdelight:recipes/decorations/rope_from_safety_net": {
     "criteria": {
-      "has_raw_gold": "2025-04-16 18:09:01 +0000"
+      "has_safety_net": "2025-04-16 17:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_reeds": "2025-04-16 18:11:17 +0000"
+      "has_spider_eye": "2025-04-16 18:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-16 18:09:01 +0000"
     },
     "done": true
   },
@@ -3352,21 +3358,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_spider_eye": "2025-04-16 18:04:21 +0000"
+      "has_reeds": "2025-04-16 18:11:17 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-16 18:11:17 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope_from_safety_net": {
-    "criteria": {
-      "has_safety_net": "2025-04-16 17:52:32 +0000"
     },
     "done": true
   },
