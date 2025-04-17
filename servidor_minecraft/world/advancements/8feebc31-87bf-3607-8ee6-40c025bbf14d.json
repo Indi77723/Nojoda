@@ -3808,6 +3808,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-17 05:39:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 04:33:58 +0000"

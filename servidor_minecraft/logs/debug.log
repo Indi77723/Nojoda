@@ -7827,3 +7827,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 05:32:53.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [17Apr2025 05:34:42.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Apr2025 05:34:42.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 05:38:34.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71120, l='ServerLevel[world]', x=-765.43, y=-256.00, z=338.84] died, message: 'Villager was killed'
+[17Apr2025 05:38:39.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71140, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[17Apr2025 05:39:42.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 05:39:42.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 05:44:42.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 05:44:42.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
