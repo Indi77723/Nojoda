@@ -2330,3 +2330,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 22:28:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.995538638986204,0.0,10.950463841743726
 [17Apr2025 22:28:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -8.260736965293518,0.0,11.249212441973043
 [17Apr2025 22:31:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 liquified to Fanta juice
+[17Apr2025 23:07:45.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27610, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[17Apr2025 23:10:55.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 hit the ground too hard
+[17Apr2025 23:11:57.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28652, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
