@@ -5227,6 +5227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-17 23:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_candle": {
     "criteria": {
       "has_green_dye": "2025-04-17 22:34:21 +0000"
@@ -5266,6 +5272,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-17 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 23:27:36 +0000"
     },
     "done": true
   },
