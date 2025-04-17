@@ -401,6 +401,7 @@
       "minecraft:skeleton": "2025-04-11 03:06:50 +0000",
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
+      "minecraft:enderman": "2025-04-17 03:13:35 +0000",
       "minecraft:zombie": "2025-04-11 02:48:45 +0000",
       "minecraft:drowned": "2025-04-13 16:28:11 +0000"
     },
@@ -3601,6 +3602,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-17 02:42:43 +0000",
+      "red_mushroom": "2025-04-17 03:17:16 +0000",
       "wheat": "2025-04-13 16:39:38 +0000",
       "carrot": "2025-04-13 16:58:26 +0000"
     },
@@ -4305,6 +4307,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2025-04-17 02:33:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_organic_compost": {
+    "criteria": {
+      "place_organic_compost": "2025-04-17 03:17:00 +0000"
     },
     "done": true
   },

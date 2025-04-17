@@ -169,3 +169,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 03:05:42.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
 [17Apr2025 03:05:42.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [17Apr2025 03:10:47.994] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18880, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[17Apr2025 03:16:06.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20800, l='ServerLevel[world]', x=-233.72, y=-256.00, z=102.42] died, message: 'Villager was killed'
+[17Apr2025 03:16:41.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:46183] logged in with entity id 21066 at (-765.3707562764882, 69.0, 336.71984777024926)
+[17Apr2025 03:16:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
