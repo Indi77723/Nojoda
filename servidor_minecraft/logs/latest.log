@@ -2282,3 +2282,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 22:05:49.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:51003] logged in with entity id 2168 at (-643.3189116112592, 70.0, 307.5180671088493)
 [17Apr2025 22:05:49.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [17Apr2025 22:05:49.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Choose Your Class]
+[17Apr2025 22:06:49.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 22:06:49.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:07:13.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49129] logged in with entity id 2596 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:07:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:08:06.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AAA
+[17Apr2025 22:09:09.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[17Apr2025 22:09:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:09:19.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:45695] logged in with entity id 2896 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:09:19.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:10:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Assassin Class]
+[17Apr2025 22:10:07.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Paladin Class]
+[17Apr2025 22:10:19.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 22:10:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:10:45.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:37475] logged in with entity id 3174 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:10:45.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:11:46.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 22:11:46.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:12:20.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38833] logged in with entity id 3533 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:12:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:12:39.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Zombie62002
+[17Apr2025 22:12:50.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 22:12:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:13:18.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:59415] logged in with entity id 3743 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:13:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:13:48.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[17Apr2025 22:13:48.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
