@@ -2308,3 +2308,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 22:13:18.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [17Apr2025 22:13:48.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
 [17Apr2025 22:13:48.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[17Apr2025 22:20:00.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[17Apr2025 22:20:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[17Apr2025 22:21:29.555] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:54595] logged in with entity id 6781 at (-167.65097613083464, 62.073264324665075, 566.657067270625)
+[17Apr2025 22:21:29.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[17Apr2025 22:24:16.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:37619] logged in with entity id 8578 at (-746.0214249688959, 63.0, 339.36662041817544)
+[17Apr2025 22:24:16.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[17Apr2025 22:24:25.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=84, y=64, z=635} BlockPos{x=85, y=62, z=635}
+[17Apr2025 22:26:32.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=64, z=694} BlockPos{x=343, y=62, z=695}
+[17Apr2025 22:27:40.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.3580905799201446
+[17Apr2025 22:27:40.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.4088882056582861
+[17Apr2025 22:27:40.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved wrongly! 0.7937923413222734
+[17Apr2025 22:28:33.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -5.921299476278364,0.0,8.520876659132057
+[17Apr2025 22:28:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -6.175155868771185,0.0,8.829047460558854
+[17Apr2025 22:28:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -6.430746526306848,0.0,9.135803732256079
+[17Apr2025 22:28:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -6.687976853207601,0.0,9.441214019574034
+[17Apr2025 22:28:33.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -6.946753104220079,0.0,9.745347646446078
+[17Apr2025 22:28:33.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.206985149319507,0.0,10.048272076393346
+[17Apr2025 22:28:33.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.46858335919751,0.0,10.350055764011245
+[17Apr2025 22:28:33.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.731461382685666,0.0,10.650765474235811
+[17Apr2025 22:28:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -7.995538638986204,0.0,10.950463841743726
+[17Apr2025 22:28:33.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Zombie62002) moved too quickly! -8.260736965293518,0.0,11.249212441973043
+[17Apr2025 22:31:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 liquified to Fanta juice

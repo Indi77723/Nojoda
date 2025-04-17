@@ -34,12 +34,15 @@
       "minecraft:sunflower_plains": "2025-04-17 04:34:17 +0000",
       "minecraft:birch_forest": "2025-04-17 04:30:45 +0000",
       "minecraft:beach": "2025-04-16 16:09:15 +0000",
+      "minecraft:dark_forest": "2025-04-17 22:19:51 +0000",
       "minecraft:river": "2025-04-11 03:14:08 +0000",
       "minecraft:stony_shore": "2025-04-11 02:43:53 +0000",
       "minecraft:dripstone_caves": "2025-04-17 04:36:20 +0000",
       "minecraft:forest": "2025-04-11 01:59:04 +0000",
+      "minecraft:desert": "2025-04-17 22:30:29 +0000",
       "minecraft:flower_forest": "2025-04-17 04:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:48:46 +0000",
+      "minecraft:savanna": "2025-04-17 22:28:21 +0000",
       "minecraft:plains": "2025-04-11 03:10:30 +0000"
     },
     "done": false
@@ -5182,12 +5185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-04-17 22:01:17 +0000"
-    },
-    "done": true
-  },
   "explorerscompass:explorers_compass": {
     "criteria": {
       "has_recipe": "2025-04-17 22:00:14 +0000"
@@ -5203,6 +5200,36 @@
   "explorerscompass:explorers_compass_cracked_stone_bricks": {
     "criteria": {
       "has_cracked_stone_bricks": "2025-04-17 22:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-17 22:01:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 22:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-17 22:30:38 +0000"
     },
     "done": true
   },
