@@ -180,3 +180,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Apr2025 04:05:18.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [First big catch of the month!]
 [17Apr2025 04:05:27.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Ice Bucket Challenge]
 [17Apr2025 04:08:21.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-660, y=56, z=412} BlockPos{x=-660, y=57, z=412}
+[17Apr2025 04:17:05.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Unfunny dad jokes]
+[17Apr2025 04:17:05.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [First big catch of the month!]
+[17Apr2025 04:22:05.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -9.811053164322061,1.8338907390617862,-1.7203116174185311
+[17Apr2025 04:31:31.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 0.3212135002092964
+[17Apr2025 04:31:31.938] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 0.26547943152570497
+[17Apr2025 04:31:31.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 0.36671021720633235
+[17Apr2025 04:31:33.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 0.530783538447622
+[17Apr2025 04:31:33.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 0.8933343281038333
+[17Apr2025 04:31:33.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CalbiBaa) moved wrongly! 1.2523312132610727
+[17Apr2025 04:32:49.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.5170582994152255
+[17Apr2025 04:32:49.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.7974083720165481
+[17Apr2025 04:32:49.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9799290227837218
+[17Apr2025 04:32:49.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9799290227837218
+[17Apr2025 04:32:49.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9799290227837218
+[17Apr2025 04:32:49.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9799290227837218
+[17Apr2025 04:32:50.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.585156467783122
+[17Apr2025 04:32:50.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 1.2784827590113537
+[17Apr2025 04:32:50.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.9662077471406292
+[17Apr2025 04:32:50.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.6483535152113973
+[17Apr2025 04:32:50.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pokenaito) moved wrongly! 0.32503025017206255
+[17Apr2025 04:38:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Quite the Renovation]
+[17Apr2025 04:38:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Quite the Renovation]
+[17Apr2025 04:40:22.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Quite the Renovation]
+[17Apr2025 04:44:42.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Diamonds!]
+[17Apr2025 04:45:11.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Diamonds!]
+[17Apr2025 04:51:04.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 10.139406543187306,0.0,0.0
