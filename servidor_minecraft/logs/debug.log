@@ -9602,3 +9602,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 02:08:07.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 02:08:07.515] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 02:12:06.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19488, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[18Apr2025 02:13:07.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:13:07.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 02:14:02.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20153, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:16:03.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20976, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[18Apr2025 02:16:44.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21182, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:18:07.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:18:07.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 02:18:15.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22001, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:21:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Monster Hunter]
+[18Apr2025 02:21:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [I'm not sugar coating it]
+[18Apr2025 02:23:07.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 02:23:07.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

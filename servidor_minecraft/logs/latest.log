@@ -2313,3 +2313,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 01:57:30.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12927, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
 [18Apr2025 02:07:50.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa has made the advancement [Crops of the Wild]
 [18Apr2025 02:12:06.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19488, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[18Apr2025 02:14:02.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20153, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:16:03.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20976, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[18Apr2025 02:16:44.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21182, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:18:15.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22001, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:21:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Monster Hunter]
+[18Apr2025 02:21:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [I'm not sugar coating it]
