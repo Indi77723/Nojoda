@@ -6010,6 +6010,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 22:57:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-04-18 22:44:33 +0000"
