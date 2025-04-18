@@ -2313,3 +2313,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 15:53:00.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> yava
 [18Apr2025 15:53:12.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> duelmansen
 [18Apr2025 15:56:39.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya estoy porcierto
+[18Apr2025 16:03:29.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zombie62002: Config for biggerstacks of type COMMON not found]
+[18Apr2025 16:03:46.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zombie62002: Config for biggerstacks of type SERVER found at biggerstacks-server.toml]
+[18Apr2025 16:04:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zombie62002: Config for biggerstacks of type CLIENT not found]
+[18Apr2025 16:04:33.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[18Apr2025 16:04:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
