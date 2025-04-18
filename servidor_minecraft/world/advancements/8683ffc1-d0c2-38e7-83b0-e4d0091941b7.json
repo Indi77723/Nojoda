@@ -5862,6 +5862,13 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-04-18 18:36:17 +0000",
+      "1": "2025-04-18 18:36:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
     "criteria": {
       "has_item": "2025-04-18 18:22:33 +0000"
@@ -5889,6 +5896,12 @@
   "create:recipes/misc/crafting/kinetics/encased_chain_drive_from_zinc": {
     "criteria": {
       "has_item": "2025-04-18 18:22:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-04-18 18:35:49 +0000"
     },
     "done": true
   },

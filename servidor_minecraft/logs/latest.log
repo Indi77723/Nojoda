@@ -2372,3 +2372,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 18:22:23.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [The Andesite Age]
 [18Apr2025 18:27:05.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Bonk!]
 [18Apr2025 18:31:18.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53502, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[18Apr2025 18:42:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 was slain by Zombie62002
+[18Apr2025 18:43:29.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 1.2187888074142847,0.42355929454303975,-10.044186908947324
+[18Apr2025 18:43:31.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[18Apr2025 18:43:31.497] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[18Apr2025 18:43:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 18:43:41.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:49801] logged in with entity id 56522 at (-753.165888710006, 64.25220334025373, 350.5873560938464)
+[18Apr2025 18:43:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 18:43:56.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDSA
+[18Apr2025 18:43:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
