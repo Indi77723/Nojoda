@@ -2282,3 +2282,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 01:30:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
 [18Apr2025 01:31:04.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:53963] logged in with entity id 3114 at (-764.6582772201943, 69.0, 336.644724732398)
 [18Apr2025 01:31:05.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 01:32:05.084] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18Apr2025 01:32:05.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 01:37:31.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[18Apr2025 01:37:31.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[18Apr2025 01:37:51.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:41085] logged in with entity id 5557 at (-736.295891638466, 61.0, 302.7717810732685)
+[18Apr2025 01:37:51.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[18Apr2025 01:37:51.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rempalago[/127.165.221.192:60737] logged in with entity id 5562 at (-737.0790374543691, 61.0, 302.8713399774325)
+[18Apr2025 01:37:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago joined the game
+[18Apr2025 01:37:51.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago has reached the goal [Choose Your Class]
+[18Apr2025 01:38:59.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rempalago lost connection: Disconnected
+[18Apr2025 01:38:59.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rempalago left the game
+[18Apr2025 01:39:53.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.165.221.192:60097] logged in with entity id 6551 at (-739.8275439088608, 61.0, 301.78452047157293)
+[18Apr2025 01:39:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[18Apr2025 01:39:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has reached the goal [Choose Your Class]
+[18Apr2025 01:40:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Hunt and Gather]
+[18Apr2025 01:41:08.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 died

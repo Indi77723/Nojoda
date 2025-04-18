@@ -3298,5 +3298,17 @@
     },
     "done": true
   },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2025-04-18 01:37:51 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-04-18 01:37:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
