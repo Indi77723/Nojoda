@@ -2353,3 +2353,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 03:42:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Plant Food]
 [18Apr2025 03:45:43.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58169, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
 [18Apr2025 03:51:52.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Enderman
+[18Apr2025 03:54:40.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[18Apr2025 03:56:45.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.3710143611521062,0.0,-10.048902092224012
+[18Apr2025 04:03:13.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> en son de paz
+[18Apr2025 04:03:28.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Ahi tiene Mondongo
+[18Apr2025 04:03:30.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> : O
+[18Apr2025 04:03:33.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> gracias
+[18Apr2025 04:04:16.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[18Apr2025 04:04:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
