@@ -2333,3 +2333,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 02:50:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
 [18Apr2025 02:51:16.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
 [18Apr2025 02:51:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[18Apr2025 02:54:07.429] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37879, l='ServerLevel[world]', x=874.09, y=66.00, z=879.15] died, message: 'Villager was slain by The Moonflower'
+[18Apr2025 02:55:19.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40063, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
+[18Apr2025 02:57:27.381] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[18Apr2025 02:57:27.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 03:00:33.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:56015] logged in with entity id 41803 at (912.6030146030026, 49.0, 913.5016246278824)
+[18Apr2025 03:00:33.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[18Apr2025 03:01:13.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [Take Aim]
+[18Apr2025 03:01:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Unfunny dad jokes]
+[18Apr2025 03:11:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Sweet Dreams]
+[18Apr2025 03:13:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 was blown up by Creeper
