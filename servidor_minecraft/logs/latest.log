@@ -2334,3 +2334,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 16:36:38.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/19135, l='ServerLevel[world]', x=940.80, y=68.75, z=840.71] died, message: 'Gunsmith was shot by Pillager'
 [18Apr2025 16:37:20.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19127, l='ServerLevel[world]', x=949.70, y=69.00, z=840.50] died, message: 'Nitwit was shot by Pillager'
 [18Apr2025 16:38:34.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19134, l='ServerLevel[world]', x=935.94, y=71.41, z=834.55] died, message: 'Villager was shot by Pillager'
+[18Apr2025 16:58:35.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Bonfire Lit]
+[18Apr2025 17:07:13.764] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39185] logged in with entity id 31431 at (-764.1059613509426, 63.0, 337.462624267031)
+[18Apr2025 17:07:13.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 17:07:38.649] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[18Apr2025 17:07:38.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 17:07:56.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18Apr2025 17:07:56.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 17:08:30.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:52829] logged in with entity id 31669 at (-764.1059613509426, 63.0, 337.462624267031)
+[18Apr2025 17:08:30.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 17:08:52.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
+[18Apr2025 17:08:55.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora
