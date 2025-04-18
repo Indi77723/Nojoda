@@ -2314,3 +2314,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:32:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> donde
 [18Apr2025 22:35:41.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> SEBAS MALDITO DUERME
 [18Apr2025 22:35:48.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14432, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'
+[18Apr2025 22:47:17.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> zzz
+[18Apr2025 22:52:53.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -0.6859721131179413,-0.753986201738762,10.059479586571058
+[18Apr2025 22:52:55.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[18Apr2025 22:52:55.224] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[18Apr2025 22:52:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 22:53:08.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:51721] logged in with entity id 19666 at (-752.6781091031667, 63.796735600668704, 361.37592560605697)
+[18Apr2025 22:53:08.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 22:53:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> AAA
+[18Apr2025 22:53:32.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> puto lag
+[18Apr2025 22:53:37.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18Apr2025 22:53:37.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 22:53:52.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:60395] logged in with entity id 19922 at (-752.6781091031667, 63.796735600668704, 361.37592560605697)
+[18Apr2025 22:53:52.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[18Apr2025 22:54:06.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> inche lag
+[18Apr2025 22:54:13.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18Apr2025 22:54:13.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 22:54:48.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48921] logged in with entity id 20164 at (-752.6781091031667, 63.796735600668704, 361.37592560605697)
+[18Apr2025 22:54:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
