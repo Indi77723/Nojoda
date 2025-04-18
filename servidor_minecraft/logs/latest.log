@@ -3020,3 +3020,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 19:17:03.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Thine end is here.]
 [18Apr2025 19:17:04.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [One eyed big skelly]
 [18Apr2025 19:19:39.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by The Moonflower
+[18Apr2025 19:28:47.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has completed the challenge [Paladin Class]
+[18Apr2025 19:30:58.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has made the advancement [Sweet Dreams]
+[18Apr2025 19:32:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was slain by Zombie62002
+[18Apr2025 19:35:25.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[18Apr2025 19:35:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
