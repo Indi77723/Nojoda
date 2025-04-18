@@ -4229,21 +4229,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_rich_soil": {
+  "undead_revamp2:nowyouknow": {
     "criteria": {
-      "get_rich_soil": "2025-04-18 03:42:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-18 03:01:13 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/blackpowder/musket": {
-    "criteria": {
-      "musket": "2025-04-18 03:53:37 +0000"
+      "nowyouknow_0": "2025-04-18 01:55:53 +0000"
     },
     "done": true
   },
@@ -4253,15 +4241,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "has_spruce_trapdoor": "2025-04-18 03:35:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-18 03:41:42 +0000"
+      "sugarcoat_0": "2025-04-18 02:21:24 +0000"
     },
     "done": true
   },
@@ -4271,9 +4253,27 @@
     },
     "done": true
   },
-  "undead_revamp2:nowyouknow": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "nowyouknow_0": "2025-04-18 01:55:53 +0000"
+      "shot_arrow": "2025-04-18 03:01:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-04-18 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-18 03:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-18 03:41:42 +0000"
     },
     "done": true
   },
@@ -4295,18 +4295,6 @@
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2025-04-18 02:21:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-04-18 03:37:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 03:41:42 +0000"
@@ -4316,6 +4304,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-18 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-04-18 03:42:31 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/blackpowder/musket": {
+    "criteria": {
+      "musket": "2025-04-18 03:53:37 +0000"
     },
     "done": true
   },

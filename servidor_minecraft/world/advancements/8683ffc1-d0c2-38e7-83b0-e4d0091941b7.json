@@ -5435,15 +5435,9 @@
     },
     "done": true
   },
-  "scguns:main/gunpowder": {
+  "undead_revamp2:daddy": {
     "criteria": {
-      "gunpowder": "2025-04-18 03:16:08 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_small_casing_mold": {
-    "criteria": {
-      "small_casing_mold": "2025-04-18 03:44:48 +0000"
+      "daddy_0": "2025-04-18 03:01:46 +0000"
     },
     "done": true
   },
@@ -5453,39 +5447,9 @@
     },
     "done": true
   },
-  "scguns:main/craft_stamping_press": {
+  "scguns:main/gunpowder": {
     "criteria": {
-      "stamping_press": "2025-04-18 03:39:05 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/copper/rusty_gnat": {
-    "criteria": {
-      "rusty_gnat": "2025-04-18 03:43:32 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy_0": "2025-04-18 03:01:46 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_bullet_mold": {
-    "criteria": {
-      "bullet_mold": "2025-04-18 03:46:32 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/anthralite": {
-    "criteria": {
-      "anthralite_ingot": "2025-04-18 03:36:17 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/craft_gun_parts_mold": {
-    "criteria": {
-      "gun_parts_mold": "2025-04-18 03:39:37 +0000"
+      "gunpowder": "2025-04-18 03:16:08 +0000"
     },
     "done": true
   },
@@ -5495,15 +5459,69 @@
     },
     "done": true
   },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-04-18 03:35:07 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2025-04-18 03:36:17 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_stamping_press": {
+    "criteria": {
+      "stamping_press": "2025-04-18 03:39:05 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_blank_mold": {
     "criteria": {
       "blank_mold": "2025-04-18 03:39:29 +0000"
     },
     "done": true
   },
-  "undead_revamp2:mygothgf": {
+  "scguns:main/craft_gun_parts_mold": {
     "criteria": {
-      "mygothgf_0": "2025-04-18 03:35:07 +0000"
+      "gun_parts_mold": "2025-04-18 03:39:37 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/copper/rusty_gnat": {
+    "criteria": {
+      "rusty_gnat": "2025-04-18 03:43:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_small_casing_mold": {
+    "criteria": {
+      "small_casing_mold": "2025-04-18 03:44:48 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_bullet_mold": {
+    "criteria": {
+      "bullet_mold": "2025-04-18 03:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-18 15:26:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 15:27:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-18 15:27:49 +0000"
     },
     "done": true
   },
