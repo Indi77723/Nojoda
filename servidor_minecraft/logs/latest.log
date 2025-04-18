@@ -2345,3 +2345,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 17:08:30.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [18Apr2025 17:08:52.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> a
 [18Apr2025 17:08:55.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ahora
+[18Apr2025 17:41:15.013] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:45691] logged in with entity id 38102 at (721.6528470548103, 34.0, 801.6974471577367)
+[18Apr2025 17:41:15.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
