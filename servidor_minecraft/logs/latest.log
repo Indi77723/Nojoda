@@ -2361,3 +2361,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 04:03:33.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> gracias
 [18Apr2025 04:04:16.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [18Apr2025 04:04:16.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 04:05:02.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> jojo a dolmi
+[18Apr2025 04:07:34.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Cobweb Entanglement]
+[18Apr2025 04:09:04.611] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-522, y=36, z=-381} but found not block entity block Block{minecraft:water}[level=7] at location
+[18Apr2025 04:09:04.611] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=7] but failed at location BlockPos{x=-522, y=36, z=-381}
+[18Apr2025 04:13:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> LLLAAAGG
+[18Apr2025 04:13:55.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> csm con el lag
