@@ -2312,3 +2312,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:31:50.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ah no ya
 [18Apr2025 22:32:01.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ya tenemos protal al nether
 [18Apr2025 22:32:07.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> donde
+[18Apr2025 22:35:41.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> SEBAS MALDITO DUERME
+[18Apr2025 22:35:48.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/14432, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'

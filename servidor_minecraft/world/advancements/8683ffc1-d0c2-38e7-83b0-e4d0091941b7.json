@@ -410,6 +410,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-11 03:35:20 +0000",
       "minecraft:skeleton": "2025-04-11 03:06:50 +0000",
+      "minecraft:hoglin": "2025-04-18 22:43:26 +0000",
       "minecraft:vindicator": "2025-04-18 16:35:03 +0000",
       "minecraft:spider": "2025-04-11 22:32:49 +0000",
       "minecraft:creeper": "2025-04-11 03:27:05 +0000",
@@ -3616,6 +3617,7 @@
       "cabbage": "2025-04-17 03:21:12 +0000",
       "onion": "2025-04-17 03:20:52 +0000",
       "tomato": "2025-04-17 03:57:43 +0000",
+      "rice": "2025-04-18 22:30:42 +0000",
       "sugar_cane": "2025-04-17 04:13:28 +0000",
       "potato": "2025-04-17 02:42:43 +0000",
       "red_mushroom": "2025-04-17 03:17:16 +0000",
@@ -5966,9 +5968,57 @@
     },
     "done": false
   },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-04-18 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 22:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-04-18 22:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-04-18 22:43:27 +0000"
     },
     "done": true
   },
@@ -5984,6 +6034,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-18 22:30:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-18 22:11:56 +0000"
@@ -5996,6 +6070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-18 22:11:56 +0000"
@@ -6005,6 +6085,18 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-04-18 22:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-18 22:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
     },
     "done": true
   },

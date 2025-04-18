@@ -4454,6 +4454,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-04-18 22:32:26 +0000",
       "wheat": "2025-04-18 19:00:51 +0000"
     },
     "done": false
@@ -4497,6 +4498,12 @@
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2025-04-18 19:54:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-18 22:32:26 +0000"
     },
     "done": true
   },
