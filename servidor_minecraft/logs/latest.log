@@ -2275,3 +2275,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:11:58.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
 [18Apr2025 22:14:14.139] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [18Apr2025 22:14:14.178] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker succeeded with 391 radius, 1 samples
+[18Apr2025 22:15:38.935] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:49009] logged in with entity id 8622 at (-635.9478493782349, 70.0, 329.900685574468)
+[18Apr2025 22:15:38.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[18Apr2025 22:16:06.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Igual?
+[18Apr2025 22:16:09.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[18Apr2025 22:16:09.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[18Apr2025 22:18:50.151] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Apr2025 22:18:50.179] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker succeeded with 998 radius, 3 samples
