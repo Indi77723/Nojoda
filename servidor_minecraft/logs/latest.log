@@ -2323,3 +2323,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 16:16:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [18Apr2025 16:16:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Not Today, Thank You]
 [18Apr2025 16:19:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ZZZZZ
+[18Apr2025 16:27:16.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño una abjea
+[18Apr2025 16:27:21.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> abeja
+[18Apr2025 16:27:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> en mi barco
+[18Apr2025 16:27:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Llegate al discordx
+[18Apr2025 16:27:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> orita, voy a comer primero
+[18Apr2025 16:28:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ok, vuelvo en un rato
+[18Apr2025 16:28:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[18Apr2025 16:28:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
