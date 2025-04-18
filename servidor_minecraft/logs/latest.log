@@ -2318,3 +2318,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 16:04:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zombie62002: Config for biggerstacks of type CLIENT not found]
 [18Apr2025 16:04:33.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [18Apr2025 16:04:33.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 16:16:07.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12588, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[18Apr2025 16:16:25.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:40735] logged in with entity id 12632 at (-659.8058592262014, 68.0625, 406.80382664611494)
+[18Apr2025 16:16:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[18Apr2025 16:16:59.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Not Today, Thank You]
+[18Apr2025 16:19:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> ZZZZZ
