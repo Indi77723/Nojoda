@@ -2331,3 +2331,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 16:28:37.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ok, vuelvo en un rato
 [18Apr2025 16:28:44.696] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
 [18Apr2025 16:28:44.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[18Apr2025 16:36:38.799] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gunsmith'/19135, l='ServerLevel[world]', x=940.80, y=68.75, z=840.71] died, message: 'Gunsmith was shot by Pillager'
+[18Apr2025 16:37:20.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19127, l='ServerLevel[world]', x=949.70, y=69.00, z=840.50] died, message: 'Nitwit was shot by Pillager'
+[18Apr2025 16:38:34.699] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/19134, l='ServerLevel[world]', x=935.94, y=71.41, z=834.55] died, message: 'Villager was shot by Pillager'
