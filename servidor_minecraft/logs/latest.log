@@ -2270,3 +2270,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:03:13.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [18Apr2025 22:03:37.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51911] logged in with entity id 4608 at (-275.3536491588574, 66.0, 193.47584176671162)
 [18Apr2025 22:03:37.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
+[18Apr2025 22:05:03.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Who is Cutting Onions?]
+[18Apr2025 22:11:56.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [We Need to Go Deeper]
+[18Apr2025 22:11:58.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3968ms or 79 ticks behind
+[18Apr2025 22:14:14.139] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[18Apr2025 22:14:14.178] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager 1145a781: RandomSpreadSearchWorker succeeded with 391 radius, 1 samples
