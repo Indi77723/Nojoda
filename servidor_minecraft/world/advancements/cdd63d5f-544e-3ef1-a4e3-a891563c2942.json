@@ -3289,6 +3289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 23:49:05 +0000"
+    },
+    "done": true
+  },
   "rpgsmw:choose_your_class": {
     "criteria": {
       "choose_your_class_0": "2025-04-17 23:37:21 +0000"
