@@ -5441,6 +5441,12 @@
     },
     "done": true
   },
+  "scguns:main/craft_small_casing_mold": {
+    "criteria": {
+      "small_casing_mold": "2025-04-18 03:44:48 +0000"
+    },
+    "done": true
+  },
   "scguns:main/sulfur_chunk": {
     "criteria": {
       "sulfur_chunk": "2025-04-18 03:07:53 +0000"
@@ -5453,9 +5459,21 @@
     },
     "done": true
   },
+  "scguns:main/copper/rusty_gnat": {
+    "criteria": {
+      "rusty_gnat": "2025-04-18 03:43:32 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-04-18 03:01:46 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_bullet_mold": {
+    "criteria": {
+      "bullet_mold": "2025-04-18 03:46:32 +0000"
     },
     "done": true
   },
