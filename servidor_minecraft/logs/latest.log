@@ -2381,3 +2381,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 18:43:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
 [18Apr2025 18:43:56.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ASDSA
 [18Apr2025 18:43:58.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> A
+[18Apr2025 18:56:21.952] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:60857] logged in with entity id 59626 at (-51.5, 80.0, 120.5)
+[18Apr2025 18:56:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[18Apr2025 18:56:22.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has reached the goal [Choose Your Class]
+[18Apr2025 18:56:22.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 has completed the challenge [The Undead]
+[18Apr2025 18:56:29.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ALV
+[18Apr2025 18:56:38.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> ALVERGAAAA
+[18Apr2025 18:56:44.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zombie62002> Llegate al discord
+[18Apr2025 18:56:46.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> : O
+[18Apr2025 18:57:01.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[18Apr2025 18:57:01.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[18Apr2025 18:57:54.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:48195] logged in with entity id 60530 at (-51.5, 80.0, 120.5)
+[18Apr2025 18:57:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[18Apr2025 18:58:55.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Timed out
+[18Apr2025 18:58:55.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[18Apr2025 18:59:37.340] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/61496, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[18Apr2025 18:59:44.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
+[18Apr2025 18:59:44.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 19:00:51.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has made the advancement [A Seedy Place]
+[18Apr2025 19:04:09.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 10.114945601368959,1.0,-2.4596180466400597
+[18Apr2025 19:04:09.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 10.612903235721319,1.0,-2.5715077613812127
+[18Apr2025 19:04:09.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! 11.111241611399123,1.0,-2.6833805664534793
+[18Apr2025 19:04:12.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.043443982082294,0.0,12.638632669405553
+[18Apr2025 19:04:12.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.043443982082294,0.0,12.638632669405553
+[18Apr2025 19:04:12.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.043443982082294,0.0,12.638632669405553
+[18Apr2025 19:04:12.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.969291129798307,0.0,12.390625868764602
+[18Apr2025 19:04:12.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.92961341698947,0.0,12.257922374463789
+[18Apr2025 19:04:12.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.908382663953716,0.0,12.186915380485658
+[18Apr2025 19:04:12.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.897022511299838,0.0,12.148920953734688
+[18Apr2025 19:04:12.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.890943920111795,0.0,12.12859089350738
+[18Apr2025 19:04:12.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.117712683617441
+[18Apr2025 19:04:12.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.11189197039343
+[18Apr2025 19:04:12.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.108777422799761
+[18Apr2025 19:04:12.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.108777422799761
+[18Apr2025 19:04:12.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.108777422799761
+[18Apr2025 19:04:12.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.108777422799761
+[18Apr2025 19:04:12.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.887691387161112,0.0,12.108777422799761
+[18Apr2025 19:04:12.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -17.95950672193112,0.0,11.882237419741358
+[18Apr2025 19:04:13.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.069749010493183,0.0,11.534480377766755
+[18Apr2025 19:04:13.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.128737461108585,0.0,11.348402518133554
+[18Apr2025 19:04:13.120] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.160301004930147,0.0,11.248835965436086
+[18Apr2025 19:04:13.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.17719002791989,0.0,11.195559888230576
+[18Apr2025 19:04:13.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.186227007390926,0.0,11.167052921528267
+[18Apr2025 19:04:13.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.151799412013503
+[18Apr2025 19:04:13.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.14363756319429
+[18Apr2025 19:04:13.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.19106251492792,0.0,11.139270320620852
+[18Apr2025 19:04:13.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.25453479451687,0.0,10.910252675052476
+[18Apr2025 19:04:13.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -18.263209187643497,-0.07683200149536162,10.551408583380152
