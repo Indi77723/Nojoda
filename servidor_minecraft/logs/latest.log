@@ -2264,3 +2264,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 21:45:12.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:44459] logged in with entity id 71 at (-635.2497468934134, 71.0, 319.93251094405286)
 [18Apr2025 21:45:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [18Apr2025 21:45:14.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[18Apr2025 21:55:23.518] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2506, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[18Apr2025 22:02:33.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [Ice Bucket Challenge]
+[18Apr2025 22:03:13.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[18Apr2025 22:03:13.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 22:03:37.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:51911] logged in with entity id 4608 at (-275.3536491588574, 66.0, 193.47584176671162)
+[18Apr2025 22:03:37.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
