@@ -74,12 +74,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-18 19:30:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-04-18 19:11:33 +0000"
@@ -98,12 +92,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-04-18 19:32:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-04-18 19:11:33 +0000"
@@ -113,18 +101,6 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-18 19:11:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-18 19:12:23 +0000"
-    },
-    "done": true
-  },
-  "rpgsmw:paladin_class": {
-    "criteria": {
-      "paladin_class_0": "2025-04-18 19:28:47 +0000"
     },
     "done": true
   },
@@ -140,11 +116,35 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-18 19:12:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-18 19:23:19 +0000"
     },
     "done": false
+  },
+  "rpgsmw:paladin_class": {
+    "criteria": {
+      "paladin_class_0": "2025-04-18 19:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-18 19:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-18 19:32:35 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

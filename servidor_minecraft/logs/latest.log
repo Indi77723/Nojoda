@@ -3025,3 +3025,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 19:32:35.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 was slain by Zombie62002
 [18Apr2025 19:35:25.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
 [18Apr2025 19:35:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[18Apr2025 19:36:36.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MawMaw123[/127.95.65.140:34495] logged in with entity id 79286 at (-627.3000000119209, 70.0, 301.69999998807907)
+[18Apr2025 19:36:36.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 joined the game
+[18Apr2025 19:37:03.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MawMaw123 lost connection: Disconnected
+[18Apr2025 19:37:03.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MawMaw123 left the game
+[18Apr2025 19:40:55.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Timed out
+[18Apr2025 19:40:55.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
+[18Apr2025 19:42:01.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has reached the goal [Dinner's Served!]
