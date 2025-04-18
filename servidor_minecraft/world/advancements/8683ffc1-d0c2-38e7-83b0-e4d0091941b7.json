@@ -5435,6 +5435,12 @@
     },
     "done": true
   },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2025-04-18 03:16:08 +0000"
+    },
+    "done": true
+  },
   "scguns:main/sulfur_chunk": {
     "criteria": {
       "sulfur_chunk": "2025-04-18 03:07:53 +0000"
