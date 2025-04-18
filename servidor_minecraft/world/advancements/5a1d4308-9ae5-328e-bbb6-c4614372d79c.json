@@ -2469,6 +2469,12 @@
     },
     "done": true
   },
+  "scguns:main/blackpowder/musket": {
+    "criteria": {
+      "musket": "2025-04-18 17:58:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-04-18 16:41:44 +0000"

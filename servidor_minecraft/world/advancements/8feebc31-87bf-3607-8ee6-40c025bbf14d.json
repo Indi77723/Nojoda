@@ -4391,15 +4391,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-18 17:34:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_skillet": {
     "criteria": {
       "skillet": "2025-04-18 17:36:50 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
     "criteria": {
-      "has_campfire": "2025-04-18 17:34:36 +0000"
+      "has_golden_knife": "2025-04-18 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-04-18 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-04-18 17:59:23 +0000"
     },
     "done": true
   },
