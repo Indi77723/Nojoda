@@ -5923,5 +5923,17 @@
     },
     "done": true
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-04-18 19:17:04 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-04-18 19:17:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
