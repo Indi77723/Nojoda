@@ -4235,6 +4235,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-18 02:42:25 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow_0": "2025-04-18 01:55:53 +0000"

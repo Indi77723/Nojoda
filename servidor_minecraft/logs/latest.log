@@ -2319,3 +2319,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 02:18:15.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/22001, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.39] died, message: 'Villager was killed'
 [18Apr2025 02:21:21.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 has made the advancement [Monster Hunter]
 [18Apr2025 02:21:24.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [I'm not sugar coating it]
+[18Apr2025 02:31:16.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has made the advancement [What a Deal!]
+[18Apr2025 02:33:27.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 has completed the challenge [Overkill]
+[18Apr2025 02:36:04.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33129, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'
+[18Apr2025 02:36:44.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33399, l='ServerLevel[world]', x=-734.60, y=-256.00, z=301.41] died, message: 'Villager was killed'
+[18Apr2025 02:46:28.181] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Timed out
+[18Apr2025 02:46:28.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[18Apr2025 02:48:10.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:58041] logged in with entity id 37265 at (-738.5029825344625, 61.0, 299.74652337415216)
+[18Apr2025 02:48:10.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[18Apr2025 02:49:11.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Timed out
+[18Apr2025 02:49:11.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
+[18Apr2025 02:50:16.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CalbiBaa[/127.198.28.85:39627] logged in with entity id 37734 at (-738.5029825344625, 61.0, 299.74652337415216)
+[18Apr2025 02:50:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa joined the game
+[18Apr2025 02:51:16.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CalbiBaa lost connection: Disconnected
+[18Apr2025 02:51:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CalbiBaa left the game
