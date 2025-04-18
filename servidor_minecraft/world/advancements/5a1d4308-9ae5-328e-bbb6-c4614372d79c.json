@@ -2232,5 +2232,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 15:51:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
