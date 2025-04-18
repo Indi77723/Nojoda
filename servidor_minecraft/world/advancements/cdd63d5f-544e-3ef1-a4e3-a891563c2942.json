@@ -3427,6 +3427,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-18 02:07:50 +0000"
+    },
+    "done": true
+  },
   "scguns:main/blackpowder/musket": {
     "criteria": {
       "musket": "2025-04-18 01:55:52 +0000"
