@@ -2889,3 +2889,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 05:32:22.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zombie62002 lost connection: Disconnected
 [19Apr2025 05:32:22.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 left the game
 [19Apr2025 05:37:14.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> coño el lag
+[19Apr2025 05:40:17.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/88405, l='ServerLevel[world]', x=-662.03, y=-256.00, z=410.00] died, message: 'Villager was killed'
+[19Apr2025 05:45:37.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/89839, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[19Apr2025 05:47:05.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90187, l='ServerLevel[world]', x=-764.64, y=-256.00, z=338.86] died, message: 'Villager was killed'
+[19Apr2025 05:49:40.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 6.271912247506634,3.9275721963195593,7.009358870269409
+[19Apr2025 05:49:44.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
+[19Apr2025 05:49:44.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
+[19Apr2025 05:49:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
