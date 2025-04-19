@@ -2860,3 +2860,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 04:53:43.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/70056, l='ServerLevel[world]', x=431.01, y=125.00, z=-614.21] died: Asghar Ghoul was slain by Zombie62002
 [19Apr2025 04:56:19.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70768, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
 [19Apr2025 04:57:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito has completed the challenge [Blood of the great ent]
+[19Apr2025 04:58:48.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/71336, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'
+[19Apr2025 04:58:53.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/70685, l='ServerLevel[world]', x=432.49, y=120.00, z=-603.47] died: Asghar Ghoul was slain by Zombie62002
+[19Apr2025 04:59:06.437] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/71140, l='ServerLevel[world]', x=432.30, y=120.00, z=-603.17] died: Asghar Ghoul was shot by Rempalago181
+[19Apr2025 05:03:59.551] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Apr2025 05:04:06.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Apr2025 05:04:26.093] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker failed with 10056 radius, 575 samples
+[19Apr2025 05:04:26.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5453ms or 109 ticks behind
+[19Apr2025 05:04:56.739] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Apr2025 05:04:58.105] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker succeeded with 4977 radius, 267 samples
+[19Apr2025 05:06:10.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=441, y=87, z=-872} BlockPos{x=442, y=87, z=-873}
+[19Apr2025 05:06:10.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=440, y=87, z=-873} BlockPos{x=440, y=86, z=-872}
+[19Apr2025 05:06:33.588] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Apr2025 05:06:33.706] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker succeeded with 4236 radius, 103 samples
