@@ -47,6 +47,7 @@
       "minecraft:jungle": "2025-04-19 04:19:54 +0000",
       "minecraft:flower_forest": "2025-04-17 04:34:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 02:48:46 +0000",
+      "minecraft:meadow": "2025-04-19 04:50:29 +0000",
       "minecraft:savanna": "2025-04-17 22:28:21 +0000",
       "minecraft:plains": "2025-04-11 03:10:30 +0000"
     },
@@ -6222,9 +6223,39 @@
     },
     "done": true
   },
+  "scguns:main/diamond_steel_blueprint": {
+    "criteria": {
+      "diamond_steel_blueprint": "2025-04-19 04:53:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 04:42:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-04-19 03:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-19 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-19 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/uppercut": {
+    "criteria": {
+      "uppercut": "2025-04-19 04:53:04 +0000"
     },
     "done": true
   },
@@ -6249,6 +6280,12 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-19 03:12:06 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_large_casing_mold": {
+    "criteria": {
+      "large_casing_mold": "2025-04-19 04:53:54 +0000"
     },
     "done": true
   },
