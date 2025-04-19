@@ -2274,3 +2274,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 02:09:21.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zombie62002[/127.109.46.254:40857] logged in with entity id 74 at (-663.2234109426026, 63.0, 402.1846513514039)
 [19Apr2025 02:09:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zombie62002 joined the game
 [19Apr2025 02:09:23.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[19Apr2025 02:16:50.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2024, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[19Apr2025 02:22:28.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:34531] logged in with entity id 3268 at (-765.529927734891, 69.0, 340.06521236214155)
+[19Apr2025 02:22:28.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 02:23:02.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.165.221.192:39889] logged in with entity id 3478 at (-747.5930282988139, 63.0, 303.2128794485896)
+[19Apr2025 02:23:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
+[19Apr2025 02:26:15.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya estamos en discord rey
