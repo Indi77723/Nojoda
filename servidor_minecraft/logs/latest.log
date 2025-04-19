@@ -2873,3 +2873,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 05:06:10.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=440, y=87, z=-873} BlockPos{x=440, y=86, z=-872}
 [19Apr2025 05:06:33.588] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [19Apr2025 05:06:33.706] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker succeeded with 4236 radius, 103 samples
+[19Apr2025 05:16:09.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> DUERMAAAAAAAAN
+[19Apr2025 05:16:14.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> NOJODAAAAAAAAAAAAA
+[19Apr2025 05:16:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> NO TIENEN MAS NADA QUE HACER EN SU CASA
+[19Apr2025 05:16:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Jefes de calle tenian que ser

@@ -11527,3 +11527,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 05:06:33.706] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager aefc7050: RandomSpreadSearchWorker succeeded with 4236 radius, 103 samples
 [19Apr2025 05:07:38.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Apr2025 05:07:38.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 05:09:49.416] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-540, y=67, z=480}) doesn't have enough leaves around top most log
+[19Apr2025 05:12:38.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 05:12:38.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Apr2025 05:16:09.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> DUERMAAAAAAAAN
+[19Apr2025 05:16:14.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> NOJODAAAAAAAAAAAAA
+[19Apr2025 05:16:24.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> NO TIENEN MAS NADA QUE HACER EN SU CASA
+[19Apr2025 05:16:33.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lechina> Jefes de calle tenian que ser
+[19Apr2025 05:17:38.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Apr2025 05:17:38.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
