@@ -31,8 +31,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-18 23:17:37 +0000",
       "minecraft:sunflower_plains": "2025-04-17 04:35:05 +0000",
       "minecraft:birch_forest": "2025-04-17 04:30:50 +0000",
+      "minecraft:beach": "2025-04-18 23:16:16 +0000",
       "minecraft:river": "2025-04-11 03:49:37 +0000",
       "minecraft:stony_shore": "2025-04-11 03:14:22 +0000",
       "minecraft:dripstone_caves": "2025-04-17 04:36:27 +0000",
@@ -1530,6 +1532,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-11 03:40:00 +0000",
       "cooked_mutton": "2025-04-11 05:57:03 +0000",
+      "sweet_berries": "2025-04-18 23:24:55 +0000",
       "cooked_beef": "2025-04-11 04:20:02 +0000",
       "apple": "2025-04-11 05:28:32 +0000",
       "cooked_cod": "2025-04-17 03:52:21 +0000",
@@ -4510,6 +4513,84 @@
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-04-18 22:32:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-04-18 23:17:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 23:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-18 23:18:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-18 23:18:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-04-18 23:18:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-18 23:18:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-18 23:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-18 23:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-18 23:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-18 23:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-18 23:19:35 +0000"
     },
     "done": true
   },

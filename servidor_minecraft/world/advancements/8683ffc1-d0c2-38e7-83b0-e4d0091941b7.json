@@ -5955,9 +5955,39 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-18 22:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-18 22:05:03 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
       "has_item": "2025-04-18 22:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-18 22:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-18 22:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-18 22:11:56 +0000"
     },
     "done": true
   },
@@ -5968,15 +5998,27 @@
     },
     "done": false
   },
-  "netherexp:recipes/ivy/weeping_ivy": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_item": "2025-04-18 22:42:46 +0000"
+      "has_gold_nugget": "2025-04-18 22:12:22 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_item": "2025-04-18 23:10:48 +0000"
+      "has_gold_nugget": "2025-04-18 22:12:22 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-04-18 22:12:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-04-18 22:30:42 +0000"
     },
     "done": true
   },
@@ -5986,9 +6028,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
     "criteria": {
-      "has_item": "2025-04-18 23:10:48 +0000"
+      "has_log": "2025-04-18 22:38:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-04-18 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/cooked_hogham": {
+    "criteria": {
+      "has_item": "2025-04-18 22:43:27 +0000"
     },
     "done": true
   },
@@ -5998,21 +6052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-04-18 22:12:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-04-18 22:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
@@ -6028,45 +6070,15 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-18 22:57:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-04-18 22:44:33 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/misc/cooked_hogham": {
-    "criteria": {
-      "has_item": "2025-04-18 22:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-04-18 22:07:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-04-18 22:05:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-04-18 22:44:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
@@ -6082,27 +6094,57 @@
     },
     "done": true
   },
-  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 22:44:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "beef_stew": "2025-04-18 22:53:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 22:57:01 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
     "criteria": {
       "has_item": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_rice": {
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
     "criteria": {
-      "plant_rice": "2025-04-18 22:30:42 +0000"
+      "has_item": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "entered_nether": "2025-04-18 22:11:56 +0000"
+      "has_soul_sand": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "create:recipes/misc/smelting/scoria": {
     "criteria": {
-      "has_gold_nugget": "2025-04-18 22:12:22 +0000"
+      "has_item": "2025-04-18 23:10:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-04-18 23:10:48 +0000"
     },
     "done": true
   },
@@ -6118,36 +6160,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-18 22:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-04-18 22:11:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-04-18 22:05:03 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/soul_soil_layer": {
-    "criteria": {
-      "has_item": "2025-04-18 23:11:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "beef_stew": "2025-04-18 22:53:14 +0000"
-    },
-    "done": false
-  },
   "netherexp:recipes/misc/soul_candle": {
     "criteria": {
       "has_planks": "2025-04-18 23:10:48 +0000"
@@ -6160,21 +6172,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
+  "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
-      "has_log": "2025-04-18 22:38:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-18 22:44:33 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/sheol": {
-    "criteria": {
-      "sheol": "2025-04-18 22:12:22 +0000"
+      "has_item": "2025-04-18 23:11:39 +0000"
     },
     "done": true
   },
