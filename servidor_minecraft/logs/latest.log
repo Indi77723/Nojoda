@@ -2491,3 +2491,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 02:56:04.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.9554505381706804
 [19Apr2025 02:56:04.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.683275807850464
 [19Apr2025 02:56:04.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.4110999134711051
+[19Apr2025 02:58:57.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[19Apr2025 03:01:38.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has completed the challenge [Paladin Class]
+[19Apr2025 03:03:49.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20281, l='ServerLevel[world]', x=-734.57, y=-256.00, z=300.30] died, message: 'Villager was killed'
+[19Apr2025 03:09:08.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Acquire Hardware]
+[19Apr2025 03:09:18.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lechina has made the advancement [Isn't It Iron Pick]
