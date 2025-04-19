@@ -2896,3 +2896,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 05:49:44.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito was kicked for floating too long!
 [19Apr2025 05:49:44.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Flying is not enabled on this server
 [19Apr2025 05:49:44.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[19Apr2025 05:49:58.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:44507] logged in with entity id 90964 at (-737.32567969881, 68.25220334025373, 302.0137546401411)
+[19Apr2025 05:49:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 05:50:19.534] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[19Apr2025 05:50:19.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[19Apr2025 05:50:27.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:38409] logged in with entity id 91220 at (-737.32567969881, 68.25220334025373, 302.0137546401411)
+[19Apr2025 05:50:27.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 05:50:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> laaag
+[19Apr2025 05:50:45.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> csm
+[19Apr2025 05:50:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mecagoern
+[19Apr2025 05:51:02.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> aa
+[19Apr2025 05:51:08.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> estabilizate
+[19Apr2025 05:53:59.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! 8.674453807059876,-1.0435356201475088,5.160011670161111
+[19Apr2025 05:54:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> adls
+[19Apr2025 05:58:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asd
