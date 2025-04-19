@@ -2561,3 +2561,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 03:57:33.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/40045, l='ServerLevel[world]', x=-231.76, y=-256.00, z=109.69] died, message: 'Villager was killed'
 [19Apr2025 03:57:38.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:48197] logged in with entity id 40074 at (-737.5537589632468, 63.0, 337.59966642393243)
 [19Apr2025 03:57:38.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 03:58:15.493] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[19Apr2025 03:58:15.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[19Apr2025 03:58:26.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu was shot by Skeleton
+[19Apr2025 03:58:52.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:39469] logged in with entity id 40784 at (-737.5537589632468, 63.0, 337.59966642393243)
+[19Apr2025 03:58:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 03:59:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito was slain by Sucker
+[19Apr2025 03:59:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> me cago en el lag
+[19Apr2025 03:59:30.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> mariana cerra el netflix nojoda
+[19Apr2025 03:59:30.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Disconnected
+[19Apr2025 03:59:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[19Apr2025 03:59:40.206] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43089] logged in with entity id 41325 at (-737.5537589632468, 63.0, 337.59966642393243)
+[19Apr2025 03:59:40.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 04:00:10.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito lost connection: Timed out
+[19Apr2025 04:00:10.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito left the game
+[19Apr2025 04:00:44.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pokenaito[/127.71.15.208:43783] logged in with entity id 41882 at (-737.5537589632468, 63.0, 337.59966642393243)
+[19Apr2025 04:00:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pokenaito joined the game
+[19Apr2025 04:01:02.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42021, l='ServerLevel[world]', x=-764.80, y=-256.00, z=338.42] died, message: 'Villager was killed'
+[19Apr2025 04:03:18.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[19Apr2025 04:03:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[19Apr2025 04:04:12.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.13.239.237:39287] logged in with entity id 43821 at (-522.9375, 62.073264324665075, 277.3125)
+[19Apr2025 04:04:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
+[19Apr2025 04:05:42.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kierbyuwu lost connection: Timed out
+[19Apr2025 04:05:42.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu left the game
+[19Apr2025 04:06:53.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kierbyuwu[/127.13.239.237:58425] logged in with entity id 45313 at (-527.394269293582, 62.073264324665075, 279.8637323221337)
+[19Apr2025 04:06:53.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kierbyuwu joined the game
