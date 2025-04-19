@@ -2280,3 +2280,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 02:23:02.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rempalago181[/127.165.221.192:39889] logged in with entity id 3478 at (-747.5930282988139, 63.0, 303.2128794485896)
 [19Apr2025 02:23:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rempalago181 joined the game
 [19Apr2025 02:26:15.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> ya estamos en discord rey
+[19Apr2025 02:27:34.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.252270956947541
+[19Apr2025 02:27:34.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 0.6391290338078761
+[19Apr2025 02:27:34.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.0980019951559825
+[19Apr2025 02:27:34.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 1.595408685371467
+[19Apr2025 02:27:34.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 2.113434005624299
+[19Apr2025 02:27:34.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved wrongly! 2.6412246625881153
+[19Apr2025 02:28:37.595] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -0.12542086471262337,0.0,-10.470495356744436
+[19Apr2025 02:28:37.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -0.12542086471262337,0.0,-11.00393681300119
+[19Apr2025 02:28:37.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Pokenaito) moved too quickly! -0.12542086471262337,0.0,-11.538276722741045
+[19Apr2025 02:28:53.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5655, l='ServerLevel[world]', x=-734.58, y=-256.00, z=301.45] died, message: 'Villager was killed'
+[19Apr2025 02:29:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rempalago181> voy
+[19Apr2025 02:32:43.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pokenaito moved too quickly! -6.943702932600559,0.0,7.37490490007184
+[19Apr2025 02:32:55.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> asdasd
+[19Apr2025 02:32:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pokenaito> as
